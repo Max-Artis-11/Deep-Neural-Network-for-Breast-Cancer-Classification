@@ -47,7 +47,7 @@ To run this project locally:
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-4. **Install dependencies
+4. **Install dependencies**
    ```Terminal
    pip install -r requirements.txt
 
@@ -55,6 +55,6 @@ To run this project locally:
 
    pip install torch pandas numpy matplotlib scikit-learn
 
-6. **Launch Notebook or Colab
+6. **Launch Notebook or Colab**
    ```Terminal
    jupyter notebook
